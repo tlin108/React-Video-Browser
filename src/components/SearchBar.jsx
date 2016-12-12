@@ -16,9 +16,4 @@ export default class SearchBar extends Component {
       </div>
     )
   }
-  /*
-  onInputChange(event) {
-    console.log(event.target.value);
-  }
-  */
 }
